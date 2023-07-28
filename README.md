@@ -1,4 +1,5 @@
 ## Integrating Python with AWS EC2
+  This repository provides a guide on how to configure AWS Toolkit for Visual Studio Code, check the connection between AWS and Python, and create EC2 instances using Python.
 ### Table of Contents
 + Prerequisites
 + AWS Toolkit for Visual Studio Code
